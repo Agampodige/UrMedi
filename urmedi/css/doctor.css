@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.card{
+    width: 75%;
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 30px;
+}
+@media screen and (max-width:768px) {
+    .card{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+.card-box{
+    /* box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2); */
+    background-color: #f1f1f1;
+    padding-bottom: 43px;
+    border-radius: 70px;
+    min-width: 282px;
+}
+img{
+    border-radius:0px 10px;
+    width: 100%;
+}
+.content{
+    text-align: center;
+    padding: 10px;
+}
+
+.content h2{
+    margin-top: 5px;
+    letter-spacing: 1.5px;
+    color: #333;
+}
+.content h3{
+    font-size: 17px;
+    color: #5c5c5c;
+    letter-spacing: 1.5px;
+}
+.content p{
+    margin-top: 10px;
+    color: #5c5c5c;
+}
+.content a{
+    margin-top: 5vh;
+    text-decoration: none;
+    display: inline-block;
+    background-color: #239ab5;
+    color: #fff;
+    font-size: 15px;
+    padding: 8px 28px;
+    border-radius: 40px;
+    letter-spacing: 1.5px;
+    text-transform: capitalize;
+}
+@media screen and (max-width:768px) {
+    .content a{
+        font-size: 18px;
+    }
+}
+
+.content a:hover{
+    background-color: #206066;
+    transition: 0.2s ease;
+}
+.heading h1{
+    text-align: center;
+    margin-top: 10px;
+    color: #026493;
+}
+.heading ::after{
+    content: "";
+    height: 6px;
+    width: 370px;
+    border-radius: 50px;
+    background-color: #026493;
+    display: block;
+    margin: auto;
+}
+
+.doctor-type-dentist{
+    text-align: center;
+    font-size: 13px;
+    color: #026493;
+    margin-top: 60px;
+
+}
+hr {
+    height: 7px;
+    /* color: #f71515; */
+    background: #026493;
+    border-width: 0px;
+    margin-top: 10px;
+    /* filter: blur(10px); */
+    width: 100%;
+}
