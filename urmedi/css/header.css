@@ -1,11 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+@font-face{
+    font-family: 'Poppins';
+    src: url(font\Poppins-Regular.ttf);
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
 
 *{
     margin:0px;
     padding:0px;
     box-sizing:border-box;
-    font-family: 'Poppins', sans-serif;
+    
 }
 
 nav{
@@ -15,12 +21,18 @@ nav{
     line-height: 80px;
     padding: 0px 70px;
     position: fixed;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
 }
 
 nav .brand{
     font-size: 30px;
     font-weight: 800;
     letter-spacing: 1.5px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
 }
 
 
@@ -65,10 +77,12 @@ nav ul li a:hover{
     line-height: 80px;
     display: none;
     cursor: pointer;
+    transition: all .5s ;
 }
 
 #check{
     display: none;
+    transition: all .5s ;
 }
 
 /* #check:checked ~ .pages{
@@ -83,7 +97,32 @@ nav ul li a:hover{
     padding: 10px;
   }
 
-  
+.nav-bar-one{
+    width: 40px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 8px;
+    margin-top: 20px;
+    transition: 0.4s;
+} 
+
+.nav-bar-two{
+    width: 40px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 8px;
+    margin-top: 5px;
+    transition: 0.4s;
+}
+
+.nav-bar-thre{
+    width: 40px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    height: 8px;
+    margin-top: 5px;
+    transition: 0.4s;
+}
 @media screen and (max-width:950px) {
     .pages{
         position: fixed;
@@ -99,10 +138,25 @@ nav ul li a:hover{
     .pages li{
         display: block;
     }
-    #check:checked ~ div .pages {
+    #check:checked ~ div .nav-bar-two {
+        /* opacity: 0; */
+        transform: translate(193px,0px);
+      }
+    #check:checked ~ div .nav-bar-one {
+        -webkit-transform: rotate(-45deg) translate(-9px, 6px);
+        transform: rotate(-45deg) translate(-9px, 6px) ;
+    }
+    #check:checked ~ div .nav-bar-thre {
+        -webkit-transform: rotate(45deg) translate(-11px, -9px);
+        transform: rotate(45deg) translate(-11px, -8px);
+    }
+    /* #check:checked ~ div .checkbtn {
+        transform: rotate(360deg) 
+    } */
+    #check:checked ~ div .pages{
         display: block;
       }
-      .checkbtn{
+    .checkbtn{
         display: block;
     }
 }

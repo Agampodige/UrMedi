@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 
 *{
     margin:0px;
@@ -126,6 +126,9 @@ body{
     flex-direction: column;
     border-radius: 10px;
     background-color: #d5f4f7;
+    border-style: solid;
+    border-color: #0e6493;
+    box-shadow: #999999 0px 0px 10px;
 }
 .comment-Box {
     display: flex;

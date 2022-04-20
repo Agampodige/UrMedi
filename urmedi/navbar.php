@@ -12,9 +12,13 @@
         <div class="header-box">
             <nav>
                 <input type="checkbox" id="check">
-                <label for="check" class="checkbtn">
-                    <i class="fas fa-bars"></i>
-                </label>
+                <div class="meneu-bar">
+                    <label for="check" class="checkbtn">
+                        <div class="nav-bar-one"></div>
+                        <div class="nav-bar-two"></div>
+                        <div class="nav-bar-thre"></div>
+                    </label>
+                </div>
                 <div class="brand">
                     <a href="home.php" style="color:#ffffff;text-decoration: none;">UrMedi</a>
                     <ul class="pages">
@@ -25,6 +29,7 @@
                         <li><a class="pages-item" href="about.php">About</a></li>
                     </ul>
                 </div>
+                
                 
             </nav>
         </div>
