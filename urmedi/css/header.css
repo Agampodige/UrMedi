@@ -103,7 +103,7 @@ nav ul li a:hover{
     border-radius: 10px;
     height: 8px;
     margin-top: 20px;
-    transition: 0.4s;
+    transition: ease-out 0.4s;
 } 
 
 .nav-bar-two{
@@ -112,7 +112,7 @@ nav ul li a:hover{
     border-radius: 10px;
     height: 8px;
     margin-top: 5px;
-    transition: 0.4s;
+    transition: ease-out 0.4s;
 }
 
 .nav-bar-thre{
@@ -121,7 +121,7 @@ nav ul li a:hover{
     border-radius: 10px;
     height: 8px;
     margin-top: 5px;
-    transition: 0.4s;
+    transition: ease-out 0.4s;
 }
 @media screen and (max-width:950px) {
     .pages{
@@ -141,6 +141,7 @@ nav ul li a:hover{
     #check:checked ~ div .nav-bar-two {
         /* opacity: 0; */
         transform: translate(193px,0px);
+        width: 5px;
       }
     #check:checked ~ div .nav-bar-one {
         -webkit-transform: rotate(-45deg) translate(-9px, 6px);
