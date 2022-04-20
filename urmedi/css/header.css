@@ -83,6 +83,7 @@ nav ul li a:hover{
     padding: 10px;
   }
 
+  
 @media screen and (max-width:950px) {
     .pages{
         position: fixed;
