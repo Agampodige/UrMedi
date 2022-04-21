@@ -130,8 +130,8 @@ include "navbar.php"
     <!--Footer-->
     <?php
 
-include "footer.php";
+    include "footer.php";
 
-?>
+    ?>
 </body>
 </html>

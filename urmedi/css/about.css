@@ -84,13 +84,29 @@
     color: #fff;
 }
 
-@media screen and (max-width:950px) {
-    .photo {
-        text-align: center;
-        min-width: 383px;
-        padding-bottom: 100px;
+@media screen and (max-width:980px) {
+    .content-section{
+        flex-direction: column;
     }
-    .about-container{
-        flex-direction: column; 
+    .about-container {
+        width: 80%;
+        display: flex;
+        align-items: center;
+        margin: auto;
+        padding: 100px;
+        flex-direction: column;
+    }
+    .about-content-section {
+        float: left;
+        width: 55%;
+        align-items: center;
+        background-color: #e2e2e2;
+        justify-items: center;
+        border-radius: 50px 50px;
+        padding: 10px 30px 50px 50px;
+        min-width: auto;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
     }
 }

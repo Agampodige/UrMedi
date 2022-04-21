@@ -1,0 +1,79 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+@font-face{
+    font-family: 'Poppins';
+    src: url(font\Poppins-Regular.ttf);
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.form-item {
+    padding-bottom: 40px;
+    text-transform: uppercase;
+    font-family: 'poppins';
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: #001a62;
+}
+.form-item h2 {
+    padding-right: 20px;
+}
+.contact{
+    padding-top: 80px;
+}
+input.box {
+    padding: 10px 30px;
+    border-radius: 67px;
+    border-style: solid;
+    border-color: #026493;
+    outline-color: #026493;
+}
+span {
+    font-family: poppins;
+    font-weight: 400;
+    color: #00346a;
+    font-family: 'Poppins', sans-serif;
+}
+.former{
+    background-color: #0265931e;
+    padding:80px 90px;
+    border-radius: 10px;
+    margin-bottom: 54px;
+}
+.former-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 36px;
+}
+input.link-btn {
+    padding: 10px 30px;
+    border-radius: 112px;
+    cursor: pointer;
+    border-color: #026493;
+    background-color: #026493;
+    color: white;
+    font-weight: bold;
+    font-family: unset;
+    text-transform: uppercase;
+    font-size: 2vh;
+}
+
+input.link-btn:hover {
+    background-color: #005177;
+}
+.submit-button {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 2vh;
+}

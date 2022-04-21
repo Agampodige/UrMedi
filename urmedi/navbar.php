@@ -24,7 +24,7 @@
                     <ul class="pages">
                         <li><a class="pages-item" href="home.php">home</a></li>
                         <li><a class="pages-item" href="doctor.php">Doctor</a></li>
-                        <li><a class="pages-item" href="">E-Channeling</a></li>
+                        <li><a class="pages-item" href="echanneling.php">E-Channeling</a></li>
                         <li><a class="pages-item" href="blog.php">Blog</a></li>
                         <li><a class="pages-item" href="about.php">About</a></li>
                     </ul>
