@@ -29,8 +29,6 @@
                         <li><a class="pages-item" href="about.php">About</a></li>
                     </ul>
                 </div>
-                
-                
             </nav>
         </div>
     </div>   

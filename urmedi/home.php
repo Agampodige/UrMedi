@@ -137,7 +137,7 @@ include "navbar.php"
     <!-- Comments -->
     <div class="comment">
         <div class="comment-title">
-            <h1>Comments</h1>
+            <h1>Patient Review</h1>
         </div>
         <div class="comment-Box">
             <div class="comment-one">
