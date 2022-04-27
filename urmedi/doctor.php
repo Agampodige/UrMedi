@@ -24,25 +24,25 @@ include "navbar.php"
                 <h2>Roy </h2>
                 <h3>Dentist</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, inventore!</p>
-                <a href="" class="button">Chanel the doctor</a>
+                <a href="echanneling.php" class="button">Chanel </a>
             </div>
         </div>
         <div class="card-box">
             <img src="images/elon.jpeg" alt="">
             <div class="content">
-                <h2>Roy </h2>
+                <h2>Mara Senasinha </h2>
                 <h3>Dentist</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, inventore!</p>
-                <a href="" class="button">Chanel the doctor</a>
+                <a href="echanneling.php" class="button">Chanel </a>
             </div>
         </div>
         <div class="card-box">
             <img src="images/elon.jpeg" alt="">
             <div class="content">
-                <h2>Roy </h2>
+                <h2>Sadun Weerasinha </h2>
                 <h3>Dentist</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, inventore!</p>
-                <a href="" class="button">Chanel the doctor</a>
+                <a href="echanneling.php" class="button">Chanel </a>
             </div>
         </div>
     </div>
@@ -50,29 +50,29 @@ include "navbar.php"
         <div class="card-box">
             <img src="images/elon.jpeg" alt="">
             <div class="content">
-                <h2>Roy </h2>
+                <h2>Gagana Dilruk </h2>
                 <h3>Dentist</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, inventore!</p>
-                <a href="" class="button">Chanel the doctor</a>
+                <a href="echanneling.php" class="button">Chanel </a>
             </div>
         </div>
         <div class="card-box">
             <img src="images/elon.jpeg" alt="">
             <div class="content">
-                <h2>Roy </h2>
+                <h2>Sunil Weerasinha </h2>
                 <h3>Dentist</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, inventore!</p>
-                <a href="" class="button">Chanel the doctor</a>
+                <a href="echanneling.php" class="button">Chanel </a>
                 
             </div>
         </div>
         <div class="card-box">
             <img src="images/elon.jpeg" alt="">
             <div class="content">
-                <h2>Roy </h2>
-                <h3>Dentist</h3>
+                <h2>Anushanka Adikari </h2>
+                <h3>ENT</h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, inventore!</p>
-                <a href="" class="button">Chanel the doctor</a>
+                <a href="echanneling.php" class="button">Chanel </a>>
             </div>
         </div>
     </div>

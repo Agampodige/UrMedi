@@ -14,10 +14,10 @@
         <div class="footer-box">
             <div class="footer-box-company">
                 <div class="footer-box-company-logo" >
-                    <img src="images\Hospital Logo.png" alt="">
+                    <img src="images\Hospital Logo.png" alt="logo">
                 </div>
                 <div class="footer-box-company-details">
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet totam maxime iusto nesciunt quos, sunt, distinctio non vitae </p>
+                    <p>You can chanel doctor via online in UrMedi Website our purpose is make you healthy</p>
                 </div>
             </div>
             <div >

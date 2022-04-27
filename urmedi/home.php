@@ -64,7 +64,7 @@ include "navbar.php"
                 <h2>Corona Virus</h2>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita numquam similique reiciendis vitae ullam, consectetur facilis aut iste suscipit accusamus eligendi magni distinctio ipsum dolorem fuga sunt sapiente ut maiores!
                 </p>
-                <a href="" class="button">Read More</a>
+                <a href="blog.php" class="button">Read More</a>
             </div>
             <div class="mid-con">
                 <div class="icon">
@@ -73,7 +73,7 @@ include "navbar.php"
                 <h2>Medical Advices</h2>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita numquam similique reiciendis vitae ullam, consectetur facilis aut iste suscipit accusamus eligendi magni distinctio ipsum dolorem fuga sunt sapiente ut maiores!
                 </p>
-                <a href="" class="button">Read More</a>
+                <a href="blog.php" class="button">Read More</a>
             </div>
             <div class="mid-con">
                 <div class="icon">
@@ -82,11 +82,58 @@ include "navbar.php"
                 <h2>Doctor</h2>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Expedita numquam similique reiciendis vitae ullam, consectetur facilis aut iste suscipit accusamus eligendi magni distinctio ipsum dolorem fuga sunt sapiente ut maiores!
                 </p>
-                <a href="" class="button">Read More</a>
+                <a href="doctor.php" class="button">Read More</a>
             </div>
         </div>
     </div>
 
+    <div class="chanel">
+        <div class="chanel-heder">
+            <h1>Chanel Spetialists</h1>
+        </div>
+        <div class="chanel-box">
+            <div class="chanel-box-dentist">
+                <div class="chanel-box-dentist-title">
+                    <h1>Dentist</h1>
+                </div>
+                <div class="chanel-box-dentist-content">
+                    <a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut cum ratione obcaecati optio, odit incidunt officiis</a>
+                </div>
+            </div>
+            <div class="chanel-box-dentist">
+                <div class="chanel-box-dentist-title">
+                    <h1>Dentist</h1>
+                </div>
+                <div class="chanel-box-dentist-content">
+                    <a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut cum ratione obcaecati optio, odit incidunt officiis</a>
+                </div>
+            </div>
+            <div class="chanel-box-dentist">
+                <div class="chanel-box-dentist-title">
+                    <h1>Dentist</h1>
+                </div>
+                <div class="chanel-box-dentist-content">
+                    <a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut cum ratione obcaecati optio, odit incidunt officiis</a>
+                </div>
+            </div>
+            <div class="chanel-box-dentist">
+                <div class="chanel-box-dentist-title">
+                    <h1>Dentist</h1>
+                </div>
+                <div class="chanel-box-dentist-content">
+                    <a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut cum ratione obcaecati optio, odit incidunt officiis</a>
+                </div>
+            </div>
+            <div class="chanel-box-dentist">
+                <div class="chanel-box-dentist-title">
+                    <h1>Dentist</h1>
+                </div>
+                <div class="chanel-box-dentist-content">
+                    <a>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut cum ratione obcaecati optio, odit incidunt officiis</a>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Comments -->
     <div class="comment">
         <div class="comment-title">

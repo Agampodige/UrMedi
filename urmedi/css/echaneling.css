@@ -11,7 +11,7 @@
 }
 form {
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: center;
 }
 .form-item {
@@ -76,4 +76,12 @@ input.link-btn:hover {
     align-items: center;
     flex-direction: column;
     padding-top: 2vh;
+}
+p.message {
+    font-size: 20px;
+    background-color: #026493;
+    color: #ffffff;
+    padding: 10px 30px;
+    border-radius: 9px;
+    margin-bottom: 40px;
 }

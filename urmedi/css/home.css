@@ -148,6 +148,32 @@ body{
     margin-bottom: 39px;
     color: #026493;
 }
+.chanel-box-dentist {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 30px 10px;
+    margin: auto;
+}
+.chanel-box {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.chanel {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #b2e6ff;
+}
+.chanel-heder h1 {
+    font-size: 25px;
+}
+.chanel-heder {
+    padding-top: 20px;
+    padding-bottom: 14px;
+    color: #0f1556;
+}
 @media screen and (max-width:768px) {
     .content-section{
         flex-direction: column;
