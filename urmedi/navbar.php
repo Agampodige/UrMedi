@@ -22,11 +22,11 @@
                 <div class="brand">
                     <a href="home.php" style="color:#ffffff;text-decoration: none;">UrMedi</a>
                     <ul class="pages">
-                        <li><a class="pages-item" href="home.php">home</a></li>
-                        <li><a class="pages-item" href="doctor.php">Doctor</a></li>
-                        <li><a class="pages-item" href="echanneling.php">E-Channeling</a></li>
-                        <li><a class="pages-item" href="blog.php">Blog</a></li>
-                        <li><a class="pages-item" href="about.php">About</a></li>
+                        <li><a class="pages-item" id = "home" href="home.php">home</a></li>
+                        <li><a class="pages-item" id = "doctor" href="doctor.php">Doctor</a></li>
+                        <li><a class="pages-item" id = "echanel" href="echanneling.php">E-Channeling</a></li>
+                        <li><a class="pages-item" id = "blog" href="blog.php">Blog</a></li>
+                        <li><a class="pages-item" id = "about" href="about.php">About</a></li>
                     </ul>
                 </div>
             </nav>

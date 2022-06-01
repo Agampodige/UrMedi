@@ -15,7 +15,14 @@
     grid-gap: 30px;
 }
 
-
+a#doctor {
+    border-radius: 10px;
+    background: #001f2e;
+}
+a#doctor:hover{
+    background: #001f2e;
+    color: #ffffff;
+}
 .card-box{
     /* box-shadow: 0px 4px 8px 0px rgba(0,0,0,0.2); */
     background-color: #f1f1f1;

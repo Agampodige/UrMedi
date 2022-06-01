@@ -39,6 +39,15 @@ input.box {
     border-color: #026493;
     outline-color: #026493;
 }
+a#echanel{
+    border-radius: 10px;
+    background: #001f2e;
+    transition: all .5s ;
+}
+a#echanel:hover{
+    background: #001f2e;
+    color: #ffffff;
+}
 span {
     font-family: poppins;
     font-weight: 400;

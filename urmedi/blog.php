@@ -22,41 +22,41 @@
             </div>
             <div class="content-section">
                 <div class="frame">
-                    <img src="images/samplehost2.jpeg" alt="" width="400x" >
+                    <img src="images/blog1.jpg" alt="" width="400x" >
                     <h4>Lorem ipsum dolor</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis.</p>
                 </div>
                 <div class="frame">
-                    <img src="images/samplehost2.jpeg" alt="" width="400x" >
+                    <img src="images/blog2.jpg" alt="" width="400x" >
                     <h4>Lorem ipsum dolor</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis. lorem</p>
                 </div>
                 <div class="frame">
-                    <img src="images/samplehost3.jpeg" alt="" width="400x" >
+                    <img src="images/blog3.jpg" alt="" width="400x" >
                     <h4>Lorem ipsum dolor</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis.</p>
                 </div>
             </div>
             <div class="content-section">
                 <div class="frame">
-                    <img src="images/samplehost2.jpeg" alt="" width="400x" >
+                    <img src="images/blog4.jpg" alt="" width="400x" >
                     <h4>Lorem ipsum dolor</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis.</p>
                 </div>
                 <div class="frame">
-                    <img src="images/samplehost2.jpeg" alt="" width="400x" >
+                    <img src="images/blog5.jpg" alt="" width="400x" >
                     <h4>Lorem ipsum dolor</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis. lorem</p>
                 </div>
                 <div class="frame">
-                    <img src="images/samplehost3.jpeg" alt="" width="400x" >
+                    <img src="images/blog6.jpg" alt="" width="400x" >
                     <h4>Lorem ipsum dolor</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis.</p>
                 </div>
             </div>
             <div class="content-section">
                 <div class="frame">
-                    <img src="images/samplehost2.jpeg" alt="" width="400x" >
+                    <img src="images/blog7.jpg" alt="" width="400x" >
                     <h4>Lorem ipsum dolor</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis.</p>
                 </div>
@@ -66,7 +66,7 @@
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis. lorem</p>
                 </div>
                 <div class="frame">
-                    <img src="images/samplehost3.jpeg" alt="" width="400x" >
+                    <img src="images/blog9.png" alt="" width="400x" >
                     <h4>Lorem ipsum dolor</h4>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto exercitationem nulla iure, non quas blanditiis.</p>
                 </div>

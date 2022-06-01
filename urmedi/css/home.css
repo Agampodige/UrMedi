@@ -95,6 +95,11 @@ body{
     flex-direction: row;
     margin: 0px 5vw;
     align-items: center;
+    background-color: #ffffff;
+    box-shadow: white 10px 50px 100px;
+}
+.footer{
+    box-shadow: white 10px -50px 100px;
 }
 
 .wellcome-note {
@@ -118,6 +123,9 @@ body{
 }
 .ads-section {
     padding-top: 64px;
+    position: relative;
+    z-index: 2;
+    background-color: #ffff;
 }
 .comment-one {
     margin: auto;
@@ -138,7 +146,6 @@ body{
 .comment {
     display: flex;
     flex-direction: column;
-    background-color: #f8feff;
     padding-top: 30px;
     padding-bottom: 20px;
 }
@@ -160,6 +167,14 @@ body{
     align-items: center;
     flex-direction: row;
 }
+a#home {
+    border-radius: 10px;
+    background: #001f2e;
+}
+a#home:hover{
+    background: #001f2e;
+    color: #ffffff;
+}
 .chanel {
     display: flex;
     align-items: center;
@@ -174,6 +189,30 @@ body{
     padding-bottom: 14px;
     color: #0f1556;
 }
+.chanel-box-dentist-title{
+    color: rgb(21 15 113);
+}
+.Fireworks {
+    position: fixed;
+    top: -660px;
+    z-index: -10;
+}
+img.firework1 {
+    position: relative;
+    top: 1044px;
+    left: 1140px;
+}
+img.firework2 {
+    position: relative;
+    top: 857px;
+}
+img.firework3 {
+    position: relative;
+    top: 394px;
+}
+img.firework3:hover {
+    filter: hue-rotate(10deg);
+}
 @media screen and (max-width:768px) {
     .content-section{
         flex-direction: column;
@@ -186,6 +225,9 @@ body{
         align-items: center;
     }
     .comment{
+        display: none;
+    }
+    .chanel{
         display: none;
     }
 }

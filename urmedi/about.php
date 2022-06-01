@@ -28,9 +28,12 @@ include "navbar.php"
     <!--About me body-->
     
     <div class="about-section" >
+        <div class="fireworks">
+            <img src="images/Fireworks.gif" alt="myphoto" class="firework1">
+        </div>
         <div class="about-container">
             <div class="photo" >
-                    <img src="images/me.png" alt="myphoto">
+                    <img src="images/me.png" alt="myphoto" class="profile">
             </div>
             <div class="about-content-section">
                 <div class="about-head">
@@ -40,7 +43,7 @@ include "navbar.php"
                     <h3>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</h3>
                     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita officia maxime voluptas mollitia voluptates aut accusamus voluptate unde, consequuntur similique sapiente aspernatur cumque minus non ex asperiores possimus excepturi consequatur.</p>
                     <div class="button" style="margin-top: 70px;">
-                        <a href="#" style="">Contact Me</a>
+                        <a href="mailto:senishkarashith@gmail.com" style="">Contact Me</a>
                     </div>
                 </div>
             </div>

@@ -18,6 +18,9 @@
     align-items: center;
     margin: auto;
     padding: 100px;
+    position: relative;
+    z-index: -1;
+    top: -25vh;
 }
 .about-content-section{
     float: left;
@@ -39,7 +42,22 @@
     min-width: 280px;
     padding-left: 50px;
 }
-.photo img{
+a#about {
+    border-radius: 10px;
+    background: #001f2e;
+}
+a#about:hover{
+    background: #001f2e;
+    color: #ffffff;
+}
+img.firework1 {
+    position: relative;
+    bottom: -409px;
+    z-index: -10;
+    width: auto;
+    width: 30%;
+}
+.photo .profile{
     width: 100%;
     height: auto;
     border-radius: 500px;
@@ -48,12 +66,10 @@
     border-style: solid;
 
 }
-
 .about-content-section .about-head{
     text-transform: uppercase;
     font-size: 15px;
     font-weight: 600;
-    margin: 0px 11vh;
 }
 .about-content-section .about-content h3{
     margin-top: 20px;
@@ -88,6 +104,7 @@
     .content-section{
         flex-direction: column;
     }
+    
     .about-container {
         width: 80%;
         display: flex;
@@ -107,6 +124,15 @@
         margin: auto;
         display: flex;
         flex-direction: column;
+        min-width: 288px;
     }
-    
+    .about-content-section .about-head {
+        font-size: small;
+        align-items: center;
+    }
+}
+@media screen and (max-width:500px) {
+    .photo img{
+        margin-left: 50px;
+    }
 }

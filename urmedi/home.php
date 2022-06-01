@@ -25,6 +25,7 @@ include "navbar.php"
                 <img src="images/urmediaddone.png" alt="add urmedi" width="100%" height="100%" >
             </div>
     </div>
+
     <!-- Wellcome note -->
     <div class="wellcome">
         <div class="wellcome-box">
@@ -173,6 +174,11 @@ include "navbar.php"
                 </div>
             </div>
         </div>
+    </div>
+    <div   class="Fireworks">
+        <img src="images\Fireworks.gif" class="firework1" alt="">
+        <img src="images\fireworl2.gif" class="firework2" alt="">
+        <img src="images\Firework3.gif" class="firework3" alt="">
     </div>
     <!--Footer-->
     <?php

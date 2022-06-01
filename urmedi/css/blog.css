@@ -17,7 +17,14 @@
     width: 85%;
     margin: auto;
 }
-
+a#blog {
+    border-radius: 10px;
+    background: #001f2e;
+}
+a#blog:hover{
+    background: #001f2e;
+    color: #ffffff;
+}
 .container .row .title{
     width: 60%;
     text-align: center;
@@ -36,9 +43,9 @@
 }
 .content-section{
     display: flex;
-    justify-content: center;
     align-items: center;
     margin: auto;
+    align-items: flex-start;
     
 }
 .content-section .frame{
@@ -67,7 +74,9 @@
     line-height: 1.5;
     text-align: center;
 }
-
+img {
+    border-radius: 10px;
+}
 @media screen and (max-width:768px) {
     .content-section{
         flex-direction: column;

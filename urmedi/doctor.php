@@ -19,7 +19,7 @@ include "navbar.php"
 
     <div class="card">
         <div class="card-box">
-            <img src="images/elon.jpeg" alt="">
+            <img src="images/3.jpg" alt="">
             <div class="content">
                 <h2>Roy </h2>
                 <h3>Dentist</h3>
@@ -28,7 +28,7 @@ include "navbar.php"
             </div>
         </div>
         <div class="card-box">
-            <img src="images/elon.jpeg" alt="">
+            <img src="images/elon.jpg" alt="">
             <div class="content">
                 <h2>Mara Senasinha </h2>
                 <h3>Dentist</h3>
@@ -37,7 +37,7 @@ include "navbar.php"
             </div>
         </div>
         <div class="card-box">
-            <img src="images/elon.jpeg" alt="">
+            <img src="images/2.jpg" alt="">
             <div class="content">
                 <h2>Sadun Weerasinha </h2>
                 <h3>Dentist</h3>
@@ -48,7 +48,7 @@ include "navbar.php"
     </div>
     <div class="card">
         <div class="card-box">
-            <img src="images/elon.jpeg" alt="">
+            <img src="images/4.jpg" alt="">
             <div class="content">
                 <h2>Gagana Dilruk </h2>
                 <h3>Dentist</h3>
@@ -57,7 +57,7 @@ include "navbar.php"
             </div>
         </div>
         <div class="card-box">
-            <img src="images/elon.jpeg" alt="">
+            <img src="images/5.jpg" alt="">
             <div class="content">
                 <h2>Sunil Weerasinha </h2>
                 <h3>Dentist</h3>
@@ -67,7 +67,7 @@ include "navbar.php"
             </div>
         </div>
         <div class="card-box">
-            <img src="images/elon.jpeg" alt="">
+            <img src="images/6.jpg" alt="">
             <div class="content">
                 <h2>Anushanka Adikari </h2>
                 <h3>ENT</h3>
